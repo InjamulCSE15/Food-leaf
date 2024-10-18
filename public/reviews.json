@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Emily Clark",
+      "image": "./assets/testimonials/emily_clark.jpg",
+      "role": "Marketing Manager",
+      "rating": 4.8,
+      "text": "The food here is absolutely incredible! Every dish we tried was packed with flavor and freshness. The service was attentive and friendly, making us feel very welcome.I highly recommend the chef's specials, they were the highlight of our meal. We'll definitely be returning soon for another great dining experience!"
+    },
+    {
+      "id": 2,
+      "name": "John Harris",
+      "image": "./assets/testimonials/john_harris.jpg",
+      "role": "Software Engineer",
+      "rating": 4.6,
+      "text": "I was blown away by the quality of the food and presentation at this restaurant. The ambiance is cozy and perfect for a relaxing evening out. The staff was knowledgeable and helped us choose the perfect dishes.Every bite was pure perfection, from the appetizers to dessert. Five stars all the way!"
+    },
+    {
+      "id": 3,
+      "name": "Sophia Martinez",
+      "image": "./assets/testimonials/sophia_martinez.jpg",
+      "role": "Graphic Designer",
+      "rating": 4.9,
+      "text": "This place is a hidden gem! The food was beyond my expectations—fresh, flavorful, and delicious. I loved how the staff went above and beyond to ensure a pleasant experience. The portion sizes were generous and the prices very reasonable. The atmosphere was warm and inviting, perfect for a family dinner. I'll be recommending this restaurant to all my friends."
+    },
+    {
+      "id": 4,
+      "name": "Michael Lee",
+      "image": "./assets/testimonials/michael_lee.jpg",
+      "role": "Financial Analyst",
+      "rating": 4.7,
+      "text": "Our dinner here was amazing! The chef clearly knows how to balance flavors in every dish. The menu offered a wide variety of options, catering to all tastes. The staff were courteous and made sure we were well taken care of throughout the meal. I especially loved the dessert, which was the perfect end to a delightful meal. A must-visit for food lovers!"
+    },
+    {
+      "id": 5,
+      "name": "Olivia Brown",
+      "image": "./assets/testimonials/olivia_brown.jpg",
+      "role": "Photographer",
+      "rating": 4.5,
+      "text": "From the moment we walked in, we were impressed by the inviting decor and friendly staff. The food was outstanding, with rich flavors and top-notch ingredients. Service was prompt, and our server made excellent recommendations. The wine list was extensive and paired perfectly with our meal. We had an unforgettable dining experience and can't wait to return."
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "image": "./assets/testimonials/david_wilson.jpg",
+      "role": "Entrepreneur",
+      "rating": 4.9,
+      "text": "What a fantastic dining experience! The food was out of this world, cooked to perfection. The staff was accommodating and made sure we had everything we needed. The ambiance was relaxing, and the attention to detail was impressive. Portions were generous without compromising on quality. I highly recommend this restaurant for anyone seeking an exceptional meal."
+    }
+  ]
+ 

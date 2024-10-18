@@ -1,0 +1,302 @@
+
+[ 
+  { 
+     "category":"STARTERS",
+     "note": null,
+      "data":[
+      { "id": 1, "name": "Samossa (6pcs)", "note" : "Chicken/Beef/Veg/Cheese Corn", "img":"samossa", "price": "R 36.00" },
+      { "id": 2, "name": "Chicken Spring Rolls (4 pcs)", "img":"chknSpringRoll", "price": "R 60.00" },
+      { "id": 3, "name": "Prawn Rosoiz (4 pcs)", "img":"prawnRosoiz", "price": "R 60.00" },
+      { "id": 4, "name": "Prawns Tempura (4 pcs)", "img":"prawnTempura", "price": "R 70.00" },
+      { "id": 5, "name": "Garlic Bread", "img":"garlicbread", "price": "R 40.00" },
+      { "id": 6, "name": "Aloo Paratha", "img":"alooParatha", "price": "R 70.00" },
+      { "id": 7, "name": "Aloo-Cheese Paratha", "img":"alooCheeseParatha", "price": "R 80.00" },
+      { "id": 8, "name": "Keema Paratha", "note":"Beef/Chicken", "img":"keemaparatha", "price": "R 80.00" },
+      { "id": 9, "name": "Paneer Tempura", "img":"paneerTempura", "price": "R 65.00" },
+      { "id": 10, "name": "Papor", "img":"papor", "price": "R 6.00" }
+    ]
+  },
+  {
+    "category": "SOUP",
+    "note": null, 
+    "data":[
+      { "id": 11, "name": "Chicken Corn Soup","note" : "Chicken, Sweet Corn & Eggs", "img":"chickenCornSoup", "price": "R 40.00" },
+      { "id": 12, "name": "Thai Soup","note" : "Chicken, Veg, Thai Leaves", "img":"thaiSoup",  "price": "R 40.00" },
+      { "id": 13, "name": "Prawn Noodles Soup","note" : "Prawns, Noodles, Veg etc.", "img":"prawnNoodlesSoup",  "price": "R 50.00" },
+      { "id": 14, "name": "Hot Pot Soup","note" : "Chicken, Prawns, Mushrooms, Veg, Baby Corn & Bamboo Shoots", "img":"hotPotSoup",  "price": "R 50.00" },
+      { "id": 15, "name": "Hot & Sour Soup","note" : "Chicken, Prawns & Veg", "img":"hotSourSoup",  "price": "R 50.00" }
+    ]
+  },
+  {
+    "category": "SALAD",
+    "note": null,
+    "data": [
+      { "id": 16, "name": "Chicken Cashew Nut Salad", "img":"chicken-cashew-nut-salad",  "price": "R 80.00" },
+      { "id": 17, "name": "Greek Salad", "img":"greek-salad",  "price": "R 60.00" },
+      { "id": 18, "name": "Green Salad", "img":"green-salad",  "price": "R 50.00" },
+      { "id": 19, "name": "Kachumar Salad", "img":"green-salad",  "price": "R 40.00" }
+    ]
+  },
+  {
+    "category": "FAMILY PLATTERS",
+    "note": null,
+    "data": [
+      { "id": 20, "name": "Platter for Two (Sea Food)", "note": "8 Queen Prawns/4 Large Prawns, 2pcs kingklip, Chips, Rice, Salad","img":"green-salad", "price": "R 295.00" },
+      { "id": 21, "name": "Platter for Four (Sea Food)", "note": "12 Queen Prawns/8 Large Prawns, 4pcs kingklip, Chips, Rice, Salad" ,"img":"green-salad", "price": "R 430.00" },
+      { "id": 22, "name": "Platter for Two (Chicken & Meat)", "note": "2 Qtr Chicken Tikka, 2pcs Thawa Kabab, 2pcs Sheek Kabab, 2pcs Lamb Chops, Chips, Rice, Salad" ,"img":"green-salad", "price": "R 280.00" },
+      { "id": 23, "name": "Platter for Four (Chicken & Meat)", "note": "3 Qtr Chicken Tikka, 4pcs Thawa Kabab, 4pcs Sheek Kabab, 4pcs Lamb Chops, Chips, Rice, Salad" ,"img":"green-salad", "price": "R 475.00" }
+    ]
+  },
+  {
+    "category": "SPAGHETTIES",
+    "note": null,
+    "data": [
+      { "id": 24, "name": "Chicken Chowmein", "img":"green-salad", "price": "R 100.00" },
+      { "id": 25, "name": "Steak Chowmein", "img":"green-salad", "price": "R 100.00" },
+      { "id": 26, "name": "Prawn Chowmein", "img":"green-salad", "price": "R 120.00" },
+      { "id": 27, "name": "Vegetable Chowmein", "img":"green-salad", "price": "R 90.00" },
+      { "id": 28, "name": "Bayleaf Special Chowmein", "note" : "Chicken, Prawn & Veg", "img":"green-salad", "price": "R 120.00" }
+    ]
+  },
+  {
+    "category": "OPEN FIRE GRILL",
+    "note": null,
+    "data": [
+      { "id": 29, "name": "Baby Full Chicken Tikka","img":"green-salad", "price": "R 140.00" },
+      { "id": 30, "name": "1/4 Chicken Tikka","img":"green-salad", "price": "R 60.00" },
+      { "id": 31, "name": "1/2 Chicken Tikka","img":"green-salad", "price": "R 110.00" },
+      { "id": 32, "name": "Full Chicken Tikka","img":"green-salad", "price": "R 200.00" },
+      { "id": 33, "name": "Chicken Boti (8pcs)","img":"green-salad", "price": "R 100.00" },
+      { "id": 34, "name": "Chicken Sheek Kabab (4pcs)","img":"green-salad", "price": "R 110.00" },
+      { "id": 35, "name": "Beef Sheek Kabab (4pcs)","img":"green-salad", "price": "R 110.00" },
+      { "id": 36, "name": "Lamb Chops (4pcs)","img":"green-salad", "price": "R 135.00" },
+      { "id": 37, "name": "T-Bone Steak","img":"green-salad", "price": "R 120.00" },
+      { "id": 38, "name": "Thawa Kabab (4pcs)","img":"green-salad", "price": "R 100.00" }
+    ]
+  },
+  {
+    "category": "SIZZLERS",
+    "note": null,
+    "data": [
+      { "id": 39, "name": "American Steak Sizzler","img":"green-salad", "price": "R 140.00" },
+      { "id": 40, "name": "Pepper Steak Sizzler","img":"green-salad", "price": "R 140.00" },
+      { "id": 41, "name": "T-Bone Steak Sizzler","img":"green-salad", "price": "R 140.00" },
+      { "id": 42, "name": "Chicken Manchurian","img":"green-salad", "price": "R 100.00" },
+      { "id": 43, "name": "Steak Manchurian","img":"green-salad", "price": "R 100.00" },
+      { "id": 44, "name": "Prawn Manchurian","img":"green-salad", "price": "R 120.00" },
+      { "id": 45, "name": "Chicken with Garlic Sauce","img":"green-salad", "price": "R 120.00" },
+      { "id": 46, "name": "Prawn with Garlic Sauce","img":"green-salad", "price": "R 120.00" }
+    ]
+  },
+  {
+    "category": "SEA FOODS",
+    "note": null,
+    "data": [
+      { "id": 47, "name": "Grilled Prawn", "note": "4 big prawns/8 Queen Prawns", "img":"green-salad", "price": "R 210.00" },
+      { "id": 48, "name": "Prawn Masala with Shell", "note": "4 big prawns", "img":"green-salad", "price": "R 210.00" },
+      { "id": 49, "name": "Butter Prawn Curry (no shell)", "img":"green-salad", "price": "R 110.00" },
+      { "id": 50, "name": "Prawn Masala Curry (no shell)", "img":"green-salad", "price": "R 110.00" },
+      { "id": 51, "name": "Prawn Chilli Dry (no shell)", "img":"green-salad", "price": "R 100.00" },
+      { "id": 52, "name": "Fish Masala Curry", "img":"green-salad", "price": "R 110.00" },
+      { "id": 53, "name": "Fish Kalia (kingklip)", "img":"green-salad", "price": "R 120.00" },
+      { "id": 54, "name": "Grilled Kingklip", "img":"green-salad", "price": "R 130.00" },
+      { "id": 55, "name": "Pomfret Masala Fry", "img":"green-salad", "price": "R 160.00" }
+    ]
+  },
+  {
+    "category": "BIRYANI",
+    "note": null,
+    "data": [
+      { "id": 56, "name": "Chicken Biryani","img":"green-salad",  "price": "R 100.00" },
+      { "id": 57, "name": "Lamb Biryani","img":"green-salad",  "price": "R 125.00" },
+      { "id": 58, "name": "Beef Biryani","img":"green-salad",  "price": "R 110.00" },
+      { "id": 59, "name": "Fish Biryani","img":"green-salad",  "price": "R 130.00" },
+      { "id": 60, "name": "Prawn Biryani","img":"green-salad",  "price": "R 130.00" },
+      { "id": 61, "name": "Vegetable Biryani","img":"green-salad",  "price": "R 100.00" }
+    ]
+  },
+  {
+    "category": "STIR FRIED RICE",
+    "note": null,
+    "data": [
+      { "id": 62, "name": "Chicken Fried Rice","img":"green-salad",  "price": "R 100.00" },
+      { "id": 63, "name": "Chicken & Prawn Fried Rice","img":"green-salad",  "price": "R 120.00" },
+      { "id": 64, "name": "Vegetable Fried Rice","img":"green-salad",  "price": "R 90.00" },
+      { "id": 65, "name": "BayLeaf Special Fried Rice (Chicken+Prawn+Beef+Veg)","img":"green-salad",  "price": "R 120.00" },
+      { "id": 66, "name": "Plain Basmati Rice","img":"green-salad",  "price": "R 30.00" }
+    ]
+  },
+  {
+    "category": "AUTHENTIC CURRIES",
+    "note": "CHICKEN (Add R20 for no bones, only fillet)",
+    "data": [
+      { "id": 67, "name": "Butter Chicken","img":"green-salad",  "price": "R 100.00" },
+      { "id": 68, "name": "Chicken Jhatpot","img":"green-salad",  "price": "R 110.00" },
+      { "id": 69, "name": "Chicken Jalfrieze","img":"green-salad",  "price": "R 110.00" },
+      { "id": 70, "name": "Chicken Ginger","img":"green-salad",  "price": "R 110.00" },
+      { "id": 71, "name": "Chicken Tikka Masala","img":"green-salad",  "price": "R 85.00" },
+      { "id": 72, "name": "Chicken Boti Masala","img":"green-salad",  "price": "R 120.00" },
+      { "id": 73, "name": "Chicken Chilli Dry","img":"green-salad",  "price": "R 85.00" },
+      { "id": 74, "name": "Chicken Kalia","img":"green-salad",  "price": "R 95.00" },
+      { "id": 75, "name": "Chicken Karahi","img":"green-salad",  "price": "R 95.00" },
+      { "id": 76, "name": "Chicken Korma","img":"green-salad",  "price": "R 120.00" },
+      { "id": 77, "name": "Chicken & Prawn Karahi","img":"green-salad",  "price": "R 140.00" }
+    ]
+  },
+  
+  {
+    "category": "LAMB",
+    "note": null,
+    "data": [
+      { "id": 83, "name": "Lamb Karahi","img":"green-salad",  "price": "R 120.00" },
+      { "id": 84, "name": "Lamb Rugan Josh","img":"green-salad",  "price": "R 120.00" },
+      { "id": 85, "name": "Lamb Korma","img":"green-salad",  "price": "R 120.00" },
+      { "id": 86, "name": "Lamb Curry with Potato","img":"green-salad",  "price": "R 95.00" },
+      { "id": 87, "name": "Lamb (Bhindi/Dal/Palak)","img":"green-salad",  "price": "R 120.00" },
+      { "id": 88, "name": "Lamb Chops Masala","img":"green-salad",  "price": "R 140.00" }
+    ]
+  },
+  {
+    "category": "BEEF",
+    "note": null,
+    "data": [
+      { "id": 89, "name": "Beef Karahi","img":"green-salad",  "price": "R 100.00" },
+      { "id": 90, "name": "Beef Bhuna","img":"green-salad",  "price": "R 100.00" },
+      { "id": 91, "name": "Beef Curry","img":"green-salad",  "price": "R 90.00" },
+      { "id": 92, "name": "Beef (with Bhindi/Dal/Palak)","img":"green-salad",  "price": "R 110.00" },
+      { "id": 93, "name": "Beef Kabab Masala","img":"green-salad",  "price": "R 110.00" },
+      { "id": 94, "name": "Beef Mince Fry","img":"green-salad",  "price": "R 85.00" },
+      { "id": 95, "name": "Beef Chilli Dry","img":"green-salad",  "price": "R 100.00" },
+      { "id": 96, "name": "Beef Nihari","img":"green-salad",  "price": "R 85.00" },
+      { "id": 97, "name": "Brain Masala","img":"green-salad",  "price": "R 90.00" }
+    ]
+  },
+  {
+    "category": "VEGETABLES",
+    "note": null,
+    "data": [
+      { "id": 98, "name": "Paneer Masala","img":"green-salad",  "price": "R 95.00" },
+      { "id": 99, "name": "Bhindi Masala","img":"green-salad",  "price": "R 90.00" },
+      { "id": 100, "name": "Bhindi Bhaji (Stir Fry)","img":"green-salad",  "price": "R 90.00" },
+      { "id": 101, "name": "Aloo Mutter","img":"green-salad",  "price": "R 75.00" },
+      { "id": 102, "name": "Mixed Vegetable Curry","img":"green-salad",  "price": "R 75.00" },
+      { "id": 103, "name": "Palak Paneer","img":"green-salad",  "price": "R 95.00" },
+      { "id": 104, "name": "Butter Paneer","img":"green-salad",  "price": "R 100.00" },
+      { "id": 105, "name": "Beans Curry (Sugar/Butter)","img":"green-salad",  "price": "R 75.00" },
+      { "id": 106, "name": "Chole (Chickpeas) Masala Curry","img":"green-salad",  "price": "R 75.00" },
+      { "id": 107, "name": "Dall Curry/Dall Fry","img":"green-salad",  "price": "R 75.00" },
+      { "id": 108, "name": "Dall Makhni","img":"green-salad",  "price": "R 85.00" },
+      { "id": 109, "name": "Cauliflower with Potato Bhaji (Stir Fry)","img":"green-salad",  "price": "R 80.00" },
+      { "id": 110, "name": "Aloo Zeera Fry","img":"green-salad",  "price": "R 70.00" }
+    ]
+  },
+  {
+    "category": "PARATHAS/NAAN/ROTIES",
+    "note": null,
+    "data": [
+      { "id": 111, "name": "Butter Naan","img":"green-salad",  "price": "R 10.00" },
+      { "id": 112, "name": "Garlic Naan","img":"green-salad",  "price": "R 18.00" },
+      { "id": 113, "name": "Rogni Naan","img":"green-salad",  "price": "R 18.00" },
+      { "id": 114, "name": "Plain Naan","img":"green-salad",  "price": "R 8.00" },
+      { "id": 115, "name": "Rumali Roti","img":"green-salad",  "price": "R 10.00" },
+      { "id": 116, "name": "Plain Paratha","img":"green-salad",  "price": "R 20.00" },
+      { "id": 117, "name": "Luchi Paratha","img":"green-salad",  "price": "R 10.00" }
+    ]
+  },
+  {
+    "category": "BUNNYCHOW",
+    "note": null,
+    "data": [
+      { "id": 118, "name": "Chicken Bunnychow (Quarter)","img":"green-salad",  "price": "R 85.00" },
+      { "id": 119, "name": "Lamb Bunnychow (Quarter)","img":"green-salad",  "price": "R 100.00" },
+      { "id": 120, "name": "Beans Bunnychow (Quarter)","img":"green-salad",  "price": "R 80.00" },
+      { "id": 121, "name": "Mixed Vegetable Bunnychow (Quarter)","img":"green-salad",  "price": "R 80.00" }
+    ]
+  },
+  {
+    "category": "BURGER, WRAPS & SHAWARMA",
+    "note": null,
+    "data": [
+      { "id": 122, "name": "Chicken Burger","img":"green-salad",  "price": "R 65.00" },
+      { "id": 123, "name": "Beef Burger","img":"green-salad",  "price": "R 65.00" },
+      { "id": 124, "name": "Cheese Burger (Beef)","img":"green-salad",  "price": "R 75.00" },
+      { "id": 125, "name": "Double Cheese Burger (Beef)","img":"green-salad",  "price": "R 90.00" },
+      { "id": 126, "name": "Chicken Tikka Burger","img":"green-salad",  "price": "R 70.00" },
+      { "id": 127, "name": "Chicken Wrap","img":"green-salad",  "price": "R 70.00" },
+      { "id": 128, "name": "Steak Wrap","img":"green-salad",  "price": "R 70.00" },
+      { "id": 129, "name": "Lamb Wrap","img":"green-salad",  "price": "R 80.00" },
+      { "id": 130, "name": "Chicken Shawarma","img":"green-salad",  "price": "R 70.00" },
+      { "id": 131, "name": "Steak Shawarma","img":"green-salad",  "price": "R 70.00" },
+      { "id": 132, "name": "Lamb Shawarma","img":"green-salad",  "price": "R 80.00" }
+    ]
+  },
+  {
+    "category": "KIDDIES MEAL",
+    "note": null,
+    "data": [
+      { "id": 133, "name": "Chicken Pops","img":"green-salad",  "price": "R 65.00" },
+      { "id": 134, "name": "Cheesy Chicken Strips","img":"green-salad",  "price": "R 70.00" },
+      { "id": 135, "name": "Chicken Drum Sticks","img":"green-salad",  "price": "R 80.00" },
+      { "id": 136, "name": "Fish Fingers","img":"green-salad",  "price": "R 70.00" },
+      { "id": 137, "name": "Sliced Polony","img":"green-salad",  "price": "R 60.00" },
+      { "id": 138, "name": "Russian in Roll","img":"green-salad",  "price": "R 70.00" },
+      { "id": 139, "name": "Chips (Plain or Masala)","img":"green-salad",  "price": "R 35.00" }
+    ]
+  },
+  {
+    "category": "HOT BEVERAGES",
+    "note": null,
+    "data": [
+      { "id": 140, "name": "Masala Tea/Plain Tea","img":"green-salad",  "price": "R 25.00" },
+      { "id": 141, "name": "Coffee/Milo/Hot Chocolate","img":"green-salad",  "price": "R 30.00" }
+    ]
+  },
+  {
+    "category": "COLD BEVERAGES",
+    "note": null,
+    "data": [
+      { "id": 142, "name": "Various Drinks with Lemonade", "note": "Passion Fruit/Kolatonic/Lime/Blueberry/Watermelon","img":"green-salad",  "price": "R 40.00" }
+    ]
+  },
+  {
+    "category": "MILKSHAKES",
+    "note": null,
+    "data": [
+      { "id": 143, "name": "Various Flavours", "note": "Chocolate/Strawberry/Bubblegum/Lime/Vanilla/Mango/Avocado", "img":"green-salad",  "price": "R 40.00" }
+    ]
+  },
+  {
+    "category": "BOMBAY KRUSH",
+    "note": null,
+    "data": [
+      { "id": 144, "name": "350ml Glass","img":"green-salad",  "price": "R 50.00" }
+    ]
+  },
+  {
+    "category": "LASSI - YOGURT DRINKS",
+    "note": null,
+    "data": [
+      { "id": 145, "name": "Sweet Lassi/Salted Lassi","img":"green-salad",  "price": "R 40.00" },
+      { "id": 146, "name": "Mango Lassi","img":"green-salad",  "price": "R 45.00" }
+    ]
+  },
+  {
+    "category": "SOFT DRINKS",
+    "note": null,
+    "data": [
+      { "id": 147, "name": "Coke/Coke Zero/Sprite/Fanta Orange/Cream Soda etc.","img":"green-salad",  "price": "R 20.00" },
+      { "id": 148, "name": "Appletiser/Grapetiser/Bottle Juice","img":"green-salad",  "price": "R 30.00" },
+      { "id": 149, "name": "Seasonal Fresh Juice","img":"green-salad",  "price": "R 35.00" }
+    ]
+  },
+  {
+    "category": "DESSERTS",
+    "note": null,
+    "data": [
+      { "id": 150, "name": "Egg Pudding / Rice Pudding","img":"green-salad",  "price": "R 30.00" },
+      { "id": 151, "name": "Suji Halwa","img":"green-salad",  "price": "R 30.00" },
+      { "id": 152, "name": "Ice Cream","img":"green-salad",  "price": "R 25.00" }
+    ]
+  }
+
+ ]
